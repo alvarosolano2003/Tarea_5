@@ -1,0 +1,17 @@
+C:\Users\JADPA_16\Desktop\Tarea_5\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+C:\Users\JADPA_16\Desktop\Tarea_5\Domain\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\JADPA_16\Desktop\Tarea_5\Domain\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\JADPA_16\Desktop\Tarea_5\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+C:\Users\JADPA_16\Desktop\Tarea_5\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\JADPA_16\Desktop\Tarea_5\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+C:\Users\JADPA_16\Desktop\Tarea_5\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+C:\Users\JADPA_16\Desktop\Tarea_5\Domain\obj\Debug\netstandard2.0\Domain.dll
+C:\Users\JADPA_16\Desktop\Tarea_5\Domain\obj\Debug\netstandard2.0\Domain.pdb
+E:\Tarea_5\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+E:\Tarea_5\Domain\bin\Debug\netstandard2.0\Domain.dll
+E:\Tarea_5\Domain\bin\Debug\netstandard2.0\Domain.pdb
+E:\Tarea_5\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+E:\Tarea_5\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+E:\Tarea_5\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+E:\Tarea_5\Domain\obj\Debug\netstandard2.0\Domain.dll
+E:\Tarea_5\Domain\obj\Debug\netstandard2.0\Domain.pdb
